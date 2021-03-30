@@ -1,2 +1,7 @@
-# springboot-crud-restful-webservices
-Spring Boot, MySQL, JPA, Hibernate Restful CRUD API Tutorial at https://youtu.be/QXFgzomuDOg
+# springboot-crud-restful-webservices jquery-ajax
+Spring Boot, MySQL, JPA, Hibernate Restful CRUD API Tutorial
+Chức năng:
+-thêm 
+-sửa 
+-xóa 
+-tìm kiếm
