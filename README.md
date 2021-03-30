@@ -1,2 +1,2 @@
-# CURD-springboot-jquery-ajax
-Thêm sửa xóa tìm kiếm sử dụng công nghệ Spring Boot JQuery Ajax
+# springboot-crud-restful-webservices
+Spring Boot, MySQL, JPA, Hibernate Restful CRUD API Tutorial at https://youtu.be/QXFgzomuDOg
